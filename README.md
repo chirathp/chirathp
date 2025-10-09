@@ -19,8 +19,9 @@
 
 ### 📊 GitHub Analytics
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chirathp&show_icons=true&theme=github-dark&hide_border=false" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chirathp&theme=github-dark&hide_border=false" height="170"/>
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=chirathp&show_icons=true&theme=radical" alt="Chirath's GitHub Stats" height="165"/>
+
 </div>
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)<br>
