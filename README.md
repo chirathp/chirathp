@@ -8,6 +8,7 @@
 [![Instagram](https://img.shields.io/static/v1?label=Instagram&message=%20&color=E4405F&logo=instagram&logoColor=white)](https://www.instagram.com/chirath.18/)
 
 👨‍💻 Enthusiastic Full-Stack Developer driven by innovation and technology.
+
 🎓 Holder of a BSc (Hons) in Software Engineering.
 
 <br>
