@@ -9,7 +9,7 @@
 
 🎓 BSc (Hons) Software Engineering Graduate
 
-💻 **Full-Stack Developer | AI & Data Science Enthusiast**
+💻 Full-Stack Developer | AI & Data Science Enthusiast
 
 <br>
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chirathp&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact">
