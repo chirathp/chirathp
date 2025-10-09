@@ -7,9 +7,9 @@
 [![LinkedIn](https://img.shields.io/static/v1?label=LinkedIn&message=%20&color=0A66C2&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chirath-perera-5bb021228/)
 [![Instagram](https://img.shields.io/static/v1?label=Instagram&message=%20&color=E4405F&logo=instagram&logoColor=white)](https://www.instagram.com/chirath.18/)
 
-🎓 BSc (Hons) Software Engineering Graduate
+🎓 **BSc (Hons) Software Engineering Graduate**
 
-💻 Full-Stack Developer | AI & Data Science Enthusiast
+💻 **Full-Stack Developer | AI & Data Science Enthusiast**
 
 <br>
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chirathp&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact">
