@@ -92,8 +92,4 @@
 ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=flat&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=flat&logo=visual-studio-code&logoColor=white)
 
-
-
-
-#### ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)<br>
 [![](https://visitcount.itsvg.in/api?id=chirathp&icon=3&color=12)](https://visitcount.itsvg.in)
