@@ -1,4 +1,7 @@
 <img align="right" src="https://streak-stats.demolab.com/?user=chirathp&theme=dark&hide_border=false">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=chirathp&theme=github-dark&hide_border=true">
+<img src="https://raw.githubusercontent.com/chirathp/chirathp/output/github-contribution-grid-snake-dark.svg">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=chirathp&theme=react-dark&hide_border=true&area=true">
 
 
 ### Hi there, I'm Chirath
