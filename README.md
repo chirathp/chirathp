@@ -1,6 +1,5 @@
 <img align="right" src="https://streak-stats.demolab.com/?user=chirathp&theme=dark&hide_border=false">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=chirathp&theme=github-dark&hide_border=true" alt="GitHub Activity Graph">
-<img src="https://github-readme-stats.vercel.app/api?username=chirathp&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats">
+<img src="./assets/github-stats.svg">
 
 ### Hi there, I'm Chirath
 
