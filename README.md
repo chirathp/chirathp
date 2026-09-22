@@ -11,7 +11,7 @@
 
 🔒 Most of my projects are private
 
-<br>
+<!-- <br> -->
 <!-- <img align="right" src="https://streak-stats.demolab.com/?user=chirathp&theme=dark&hide_border=false"> -->
 
 ### 🧰 Tech Stack & Tools
