@@ -9,6 +9,8 @@
 
 💻 **Full-Stack Developer | AI & Data Science Enthusiast**
 
+🔒 Most of my projects are private
+
 <br>
 <!-- <img align="right" src="https://streak-stats.demolab.com/?user=chirathp&theme=dark&hide_border=false"> -->
 
