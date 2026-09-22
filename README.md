@@ -1,4 +1,4 @@
-<!-- <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=chirathp&theme=dark&hide_border=false"> -->
+<img align="right" src="https://streak-stats.demolab.com/?user=chirathp&theme=dark&hide_border=false">
 
 
 ### Hi there, I'm Chirath
@@ -11,7 +11,7 @@
 💻 **Full-Stack Developer | AI & Data Science Enthusiast**
 
 <br>
-<img align="right" src="https://streak-stats.demolab.com/?user=chirathp&theme=dark&hide_border=false">
+<!-- <img align="right" src="https://streak-stats.demolab.com/?user=chirathp&theme=dark&hide_border=false"> -->
 
 ### 🧰 Tech Stack & Tools
 
