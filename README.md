@@ -1,5 +1,4 @@
 <img align="right" src="https://streak-stats.demolab.com/?user=chirathp&theme=dark&hide_border=false">
-<img src="./assets/github-stats.svg">
 
 ### Hi there, I'm Chirath
 
