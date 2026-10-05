@@ -9,7 +9,7 @@
 
 💻 **Full-Stack Developer | AI & Data Science Enthusiast**
 
-🔒 *****Most of my projects are private and built for real-world, multitenant environments*****
+🔒 **Most of my projects are private and built for ***real-world, multitenant environments*****
 
 <!-- <br> -->
 <!-- <img align="right" src="https://streak-stats.demolab.com/?user=chirathp&theme=dark&hide_border=false"> -->
