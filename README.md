@@ -43,9 +43,10 @@
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white)
 ![Netlify](https://img.shields.io/badge/netlify-%2300C7B7.svg?style=flat&logo=netlify&logoColor=white)
 ![Github Pages](https://img.shields.io/badge/github%20pages-121013?style=flat&logo=github&logoColor=white)
-![Deno](https://img.shields.io/badge/deno%20js-000000?style=flat&logo=deno&logoColor=white)
-![Electron.js](https://img.shields.io/badge/Electron-191970?style=flat&logo=Electron&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-black?style=flat&logo=JSON%20web%20tokens)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=Cloudflare&logoColor=white)
+![Neon](https://img.shields.io/badge/Neon-00E699?style=flat&logo=neon&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=flat&logo=kubernetes&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=flat&logo=githubactions&logoColor=white)
 
 #### 🧩 Frameworks & Libraries
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white)
@@ -64,6 +65,19 @@
 ![Nuxt.js](https://img.shields.io/badge/Nuxt.js-%2300DC82.svg?style=flat&logo=nuxtdotjs&logoColor=white)
 ![Redux](https://img.shields.io/badge/redux-%23593D88.svg?style=flat&logo=redux&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white)
+![Hono](https://img.shields.io/badge/hono-E36002?style=flat&logo=hono&logoColor=white)
+![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=flat&logo=vite&logoColor=white)
+![Expo](https://img.shields.io/badge/expo-1C1E24?style=flat&logo=expo&logoColor=#D04A37)
+![Drizzle](https://img.shields.io/badge/drizzle-C5F74F?style=flat&logo=drizzle&logoColor=black)
+![TanStack Query](https://img.shields.io/badge/TanStack%20Query-FF4154?style=flat&logo=react-query&logoColor=white)
+![Zustand](https://img.shields.io/badge/zustand-%23434145.svg?style=flat&logo=react&logoColor=%2361DAFB)
+![Zod](https://img.shields.io/badge/zod-%233068b7.svg?style=flat&logo=zod&logoColor=white)
+![Turborepo](https://img.shields.io/badge/turborepo-EF4444?style=flat&logo=turborepo&logoColor=white)
+![BullMQ](https://img.shields.io/badge/BullMQ-E11D48?style=flat&logo=redis&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat&logo=playwright&logoColor=white)
+![Nextra](https://img.shields.io/badge/Nextra-000000?style=flat&logo=next.js&logoColor=white)
+![Sentry](https://img.shields.io/badge/sentry-%23362D59.svg?style=flat&logo=sentry&logoColor=white)
+![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-000000?style=flat&logo=opentelemetry&logoColor=white)
 
 #### 🗄 Databases
 ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=flat&logo=mysql&logoColor=white)
