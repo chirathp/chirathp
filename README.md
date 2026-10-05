@@ -32,7 +32,7 @@
 ![SQL](https://img.shields.io/badge/SQL-%23007ACC.svg?style=flat&logo=postgresql&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=flat&logo=powershell&logoColor=white)
 ![Bash](https://img.shields.io/badge/bash-%2304A5E5.svg?style=flat&logo=gnu-bash&logoColor=white)
-![Kotlin](https://img.shields.io/badge/kotlin-%23F18E33.svg?style=flat&logo=kotlin&logoColor=white)
+![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=flat&logo=rust&logoColor=white)
 
 
 #### ☁️ Cloud & Platforms
