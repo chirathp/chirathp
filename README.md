@@ -45,6 +45,8 @@
 ![Neon](https://img.shields.io/badge/Neon-00E699?style=flat&logo=neon&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=flat&logo=kubernetes&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=flat&logo=githubactions&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat&logo=googlecolab&logoColor=black)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
 
 #### 🧩 Frameworks & Libraries
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white)
@@ -61,12 +63,14 @@
 ![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=flat&logo=web3.js&logoColor=white)
 ![Nuxt.js](https://img.shields.io/badge/Nuxt.js-%2300DC82.svg?style=flat&logo=nuxtdotjs&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white)
-![Hono](https://img.shields.io/badge/hono-E36002?style=flat&logo=hono&logoColor=white)
-![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=flat&logo=vite&logoColor=white)
-![Expo](https://img.shields.io/badge/expo-1C1E24?style=flat&logo=expo&logoColor=#D04A37)
-![Drizzle](https://img.shields.io/badge/drizzle-C5F74F?style=flat&logo=drizzle&logoColor=black)
-![TanStack Query](https://img.shields.io/badge/TanStack%20Query-FF4154?style=flat&logo=react-query&logoColor=white)
-![Turborepo](https://img.shields.io/badge/turborepo-EF4444?style=flat&logo=turborepo&logoColor=white)
+![Hono](https://img.shields.io/badge/Hono-E36002?style=flat&logo=hono&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-9135FF?style=flat&logo=vite&logoColor=white)
+![React Router](https://img.shields.io/badge/React%20Router-CA4245?style=flat&logo=reactrouter&logoColor=white)
+![Vercel AI SDK](https://img.shields.io/badge/Vercel%20AI%20SDK-000000?style=flat&logo=vercel&logoColor=white)
+![React Flow](https://img.shields.io/badge/React%20Flow-1A192B?style=flat&logo=xyflow&logoColor=white)
+![Better Auth](https://img.shields.io/badge/Better%20Auth-000000?style=flat&logo=betterauth&logoColor=white)
+![Expo](https://img.shields.io/badge/Expo-1C2024?style=flat&logo=expo&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
 
 #### 🗄 Databases
 ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=flat&logo=mysql&logoColor=white)
