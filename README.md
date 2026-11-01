@@ -1,4 +1,4 @@
-<img align="right" src="https://streak-stats.demolab.com/?user=chirathp&theme=dark&hide_border=false">
+<!-- <img align="right" src="https://streak-stats.demolab.com/?user=chirathp&theme=dark&hide_border=false"> -->
 
 ### Hi there, I'm Chirath
 
